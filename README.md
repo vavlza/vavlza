@@ -20,7 +20,7 @@ Name's **Vasili** and I build stuff, mostly in JavaScript. Currently looking for
  <a href="https://firebase.google.com"><code><img alt="firebase" height="40px" src="https://cdn.svgporn.com/logos/firebase.svg" /></code></a>
  <a href="https://nodejs.org/en"><code><img alt="node" height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" /></code></a>
  <a href="https://expressjs.com"><code><img alt="express" height="40px" src="https://cdn.svgporn.com/logos/express.svg" /></code></a>
- <a href="https://nestjs.com"><img alt="nestjs" height="40px" src="https://cdn.svgporn.com/logos/nestjs.svg" /><code></code></a>
+ <a href="https://nestjs.com"<code>><img alt="nestjs" height="40px" src="https://cdn.svgporn.com/logos/nestjs.svg" /></code></a>
 </p>
 
 #### :books: Currently studying:
