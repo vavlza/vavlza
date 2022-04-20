@@ -1,17 +1,14 @@
 ### Sup :metal:
 
-<img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=va-z&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true" />
+<img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=va-vl&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true" />
 
-Name's **Vasili** and I build stuff, mostly in JavaScript.
-
-Currently looking for work as a Front-end Developer.
-
-Check out [my full résumé][resume] to see if my skills would be helpful to your team.
+Name's **Vasili** and I build stuff, mostly in JavaScript. Currently looking for work as a Front-end / Full-stack Developer. Check out [my full résumé][resume] to see if my skills would be helpful to your team.
 
 #### :white_check_mark: Have experience with:
 
 <p>
  <a href="https://www.javascript.com"><code><img alt="JavaScript" height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
+ <a href="https://www.typescriptlang.org"><code><img alt="typescript" height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /></code></a>
  <a href="https://en.wikipedia.org/wiki/HTML"><code><img alt="HTML5" height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><code><img alt="CSS3" height="40px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code></a>
  <a href="https://sass-lang.com"><code><img alt="Sass" height="40px" src="https://cdn.svgporn.com/logos/sass.svg" /></code></a>
@@ -20,14 +17,20 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
  <a href="https://d3js.org"><code><img alt="D3" height="40px" src="https://cdn.svgporn.com/logos/d3.svg" /></code></a>
  <a href="https://www.chartjs.org"><code><img alt="chartjs" height="40px" src="https://www.chartjs.org/img/chartjs-logo.svg" /></code></a>
  <a href="https://leafletjs.com"><code><img alt="leaflet" height="40px" src="https://cdn.svgporn.com/logos/leaflet.svg" /></code></a>
+ <a href="https://firebase.google.com"><code><img alt="firebase" height="40px" src="https://cdn.svgporn.com/logos/firebase.svg" /></code></a>
+ <a href="https://nodejs.org/en"><code><img alt="node" height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" /></code></a>
+ <a href="https://expressjs.com"><code><img alt="express" height="40px" src="https://cdn.svgporn.com/logos/express.svg" /></code></a>
+ <a href="https://nestjs.com"><img alt="nestjs" height="40px" src="https://cdn.svgporn.com/logos/nestjs.svg" /><code></code></a>
 </p>
 
 #### :books: Currently studying:
 
 <p>
- <a href="https://www.typescriptlang.org"><code><img alt="typescript" height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /></code></a>
- <a href="https://nodejs.org/en"><code><img alt="node" height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" /></code></a>
- <a href="https://firebase.google.com"><code><img alt="firebase" height="40px" src="https://cdn.svgporn.com/logos/firebase.svg" /></code></a>
+ <a href="https://jestjs.io"><code><img alt="jest" height="40px" src="https://cdn.svgporn.com/logos/jest.svg" /></code></a>
+ <a href="https://www.docker.com"><code><img alt="docker" height="40px" src="https://cdn.svgporn.com/logos/docker-icon.svg" /></code></a>
+ <a href="https://mongodb.com"><code><img alt="mongodb" height="40px" src="https://cdn.svgporn.com/logos/mongodb.svg" /></code></a>
+ <a href="https://www.postgresql.org"><code><img alt="postgresql" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
+ <a href="https://graphql.org"><code><img alt="typeorm" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
 </p>
 
 #### :wrench: Known tools and other software:
@@ -45,14 +48,13 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
  <a href="https://www.markdownguide.org"><code><img alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/markdown.svg" /></code></a>
  <a href="https://git-scm.com"><code><img alt="git" height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" /></code></a>
  <a href="https://github.com"><code><img alt="github" height="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" /></code></a>
- <a href="https://jestjs.io"><code><img alt="jest" height="40px" src="https://cdn.svgporn.com/logos/jest.svg" /></code></a>
  <a href="https://code.visualstudio.com"><code><img alt="vscode" height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" /></code></a>
  <a href="https://figma.com"><code><img alt="figma" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" /></code></a>
  <a href="https://www.adobe.com/ru/products/photoshop.html"><code><img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /></code></a>
 </p>
 
-![](https://img.shields.io/github/last-commit/va-z/va-z?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
+![](https://img.shields.io/github/last-commit/va-vl/va-vl?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
 
-[resume]: https://docs.google.com/viewer?url=https://github.com/va-z/va-z/blob/develop/frontend_developer_vasili_zadorojnyuk.pdf?raw=true
+[resume]: https://docs.google.com/viewer?url=https://github.com/va-vl/va-vl/blob/develop/frontend_developer_vasili_zadorojnyuk.pdf?raw=true
 [comment]: <> (Resume is displayed using the google docs viewer trick)
 [comment]: <> (URL is: https://docs.google.com/viewer?url={link_to_raw_pdf})
