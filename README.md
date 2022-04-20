@@ -2,7 +2,7 @@
 
 <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=va-vl&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true" />
 
-Name's **Vasili** and I build stuff, mostly in JavaScript. Currently looking for work as a Front-end / Full-stack Developer. Check out [my full résumé][resume] to see if my skills would be helpful to your team.
+Name's **Vasili** and I build stuff, mostly in JavaScript.
 
 #### :white_check_mark: Have experience with:
 
@@ -55,6 +55,6 @@ Name's **Vasili** and I build stuff, mostly in JavaScript. Currently looking for
 
 ![](https://img.shields.io/github/last-commit/va-vl/va-vl?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
 
-[resume]: https://docs.google.com/viewer?url=https://github.com/va-vl/va-vl/blob/develop/frontend_developer_vasili_zadorojnyuk.pdf?raw=true
+[resume]: <> (RESUME_VARIABLE_PLACEHOLDER)
 [comment]: <> (Resume is displayed using the google docs viewer trick)
 [comment]: <> (URL is: https://docs.google.com/viewer?url={link_to_raw_pdf})
