@@ -9,7 +9,7 @@ Name's **Vasili** and I build stuff, mostly in JavaScript. Currently looking for
 <p>
  <a href="https://www.javascript.com"><code><img alt="JavaScript" height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
  <a href="https://www.typescriptlang.org"><code><img alt="typescript" height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /></code></a>
- <a href="https://en.wikipedia.org/wiki/HTML"><code><img alt="HTML5" height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
+ <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML5" height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><code><img alt="CSS3" height="40px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code></a>
  <a href="https://sass-lang.com"><code><img alt="Sass" height="40px" src="https://cdn.svgporn.com/logos/sass.svg" /></code></a>
  <a href="https://reactjs.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
@@ -30,7 +30,7 @@ Name's **Vasili** and I build stuff, mostly in JavaScript. Currently looking for
  <a href="https://www.docker.com"><code><img alt="docker" height="40px" src="https://cdn.svgporn.com/logos/docker-icon.svg" /></code></a>
  <a href="https://mongodb.com"><code><img alt="mongodb" height="40px" src="https://cdn.svgporn.com/logos/mongodb.svg" /></code></a>
  <a href="https://www.postgresql.org"><code><img alt="postgresql" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
- <a href="https://graphql.org"><code><img alt="typeorm" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
+ <a href="https://graphql.org"><code><img alt="typeorm" height="40px" src="https://cdn.svgporn.com/logos/graphql.svg" /></code></a>
 </p>
 
 #### :wrench: Known tools and other software:
