@@ -53,7 +53,7 @@ Name's **Vasili** and I build stuff, mostly in JavaScript.
  <a href="https://www.adobe.com/ru/products/photoshop.html"><code><img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /></code></a>
 </p>
 
-![](https://img.shields.io/github/last-commit/va-vl/va-vl?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
+![](https://img.shields.io/github/last-commit/va-vl/va-vl/main?label=readme%20last%20updated)
 
 [resume]: <> (RESUME_VARIABLE_PLACEHOLDER)
 [comment]: <> (Resume is displayed using the google docs viewer trick)
