@@ -1,8 +1,8 @@
-### Sup :metal:
+### Hello :sunglasses:
 
 <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=va-vl&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true" />
 
-Name's **Vasili** and I build stuff, mostly in JavaScript.
+My name's **Vasili** and I am a full-stack Software Engineer.
 
 #### :white_check_mark: Have experience with:
 
@@ -14,13 +14,15 @@ Name's **Vasili** and I build stuff, mostly in JavaScript.
  <a href="https://sass-lang.com"><code><img alt="Sass" height="40px" src="https://cdn.svgporn.com/logos/sass.svg" /></code></a>
  <a href="https://reactjs.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
  <a href="https://redux.js.org"><code><img alt="Redux" height="40px" src="https://cdn.svgporn.com/logos/redux.svg" /></code></a>
- <a href="https://d3js.org"><code><img alt="D3" height="40px" src="https://cdn.svgporn.com/logos/d3.svg" /></code></a>
- <a href="https://www.chartjs.org"><code><img alt="chartjs" height="40px" src="https://www.chartjs.org/img/chartjs-logo.svg" /></code></a>
- <a href="https://leafletjs.com"><code><img alt="leaflet" height="40px" src="https://cdn.svgporn.com/logos/leaflet.svg" /></code></a>
- <a href="https://firebase.google.com"><code><img alt="firebase" height="40px" src="https://cdn.svgporn.com/logos/firebase.svg" /></code></a>
  <a href="https://nodejs.org/en"><code><img alt="node" height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" /></code></a>
  <a href="https://expressjs.com"><code><img alt="express" height="40px" src="https://cdn.svgporn.com/logos/express.svg" /></code></a>
  <a href="https://nestjs.com"><code><img alt="nestjs" height="40px" src="https://cdn.svgporn.com/logos/nestjs.svg" /></code></a>
+ <a href="https://knexjs.org/"><code><img alt="nestjs" height="40px" src="https://cdn.svgporn.com/logos/knex.svg" /></code></a>
+ <a href="https://www.postgresql.org"><code><img alt="postgresql" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
+ <a href="https://firebase.google.com"><code><img alt="firebase" height="40px" src="https://cdn.svgporn.com/logos/firebase.svg" /></code></a>
+ <a href="https://d3js.org"><code><img alt="D3" height="40px" src="https://cdn.svgporn.com/logos/d3.svg" /></code></a>
+ <a href="https://www.chartjs.org"><code><img alt="chartjs" height="40px" src="https://www.chartjs.org/img/chartjs-logo.svg" /></code></a>
+ <a href="https://leafletjs.com"><code><img alt="leaflet" height="40px" src="https://cdn.svgporn.com/logos/leaflet.svg" /></code></a>
 </p>
 
 #### :books: Currently studying:
@@ -29,7 +31,6 @@ Name's **Vasili** and I build stuff, mostly in JavaScript.
  <a href="https://jestjs.io"><code><img alt="jest" height="40px" src="https://cdn.svgporn.com/logos/jest.svg" /></code></a>
  <a href="https://www.docker.com"><code><img alt="docker" height="40px" src="https://cdn.svgporn.com/logos/docker-icon.svg" /></code></a>
  <a href="https://mongodb.com"><code><img alt="mongodb" height="40px" src="https://cdn.svgporn.com/logos/mongodb.svg" /></code></a>
- <a href="https://www.postgresql.org"><code><img alt="postgresql" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
  <a href="https://graphql.org"><code><img alt="typeorm" height="40px" src="https://cdn.svgporn.com/logos/graphql.svg" /></code></a>
 </p>
 
@@ -37,6 +38,7 @@ Name's **Vasili** and I build stuff, mostly in JavaScript.
 
 <p>
  <a href="https://webpack.js.org"><code><img alt="webpack" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code></a>
+ <a href="https://parceljs.org"><code><img alt="parcel" height="40px" src="https://cdn.svgporn.com/logos/parcel.svg" /></code></a>
  <a href="https://gulpjs.com"><code><img alt="gulp" height="40px" src="https://cdn.svgporn.com/logos/gulp.svg" /></code></a>
  <a href="https://babeljs.io"><code><img alt="babel" height="40px" src="https://cdn.svgporn.com/logos/babel.svg" /></code></a>
  <a href="https://eslint.org"><code><img alt="eslint" height="40px" src="https://cdn.svgporn.com/logos/eslint.svg" /></code></a>
