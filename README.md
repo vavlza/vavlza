@@ -11,7 +11,7 @@ My name's **Vasili** and I am a full-stack Software Engineer 👷‍♂️
 <p>
  <a href="https://www.javascript.com"><code><img alt="JavaScript" height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
  <a href="https://www.typescriptlang.org"><code><img alt="typescript" height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /></code></a>
- <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML5" height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
+ <a href="https://en.wikipedia.org/wiki/HTML"><code><img alt="HTML5" height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><code><img alt="CSS3" height="40px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code></a>
  <a href="https://sass-lang.com"><code><img alt="Sass" height="40px" src="https://cdn.svgporn.com/logos/sass.svg" /></code></a>
  <a href="https://reactjs.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
@@ -19,8 +19,9 @@ My name's **Vasili** and I am a full-stack Software Engineer 👷‍♂️
  <a href="https://nodejs.org/en"><code><img alt="node" height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" /></code></a>
  <a href="https://expressjs.com"><code><img alt="express" height="40px" src="https://cdn.svgporn.com/logos/express.svg" /></code></a>
  <a href="https://nestjs.com"><code><img alt="nestjs" height="40px" src="https://cdn.svgporn.com/logos/nestjs.svg" /></code></a>
- <a href="https://knexjs.org/"><code><img alt="nestjs" height="40px" src="https://cdn.svgporn.com/logos/knex.svg" /></code></a>
+ <a href="https://knexjs.org/"><code><img alt="knexjs" height="40px" src="https://cdn.svgporn.com/logos/knex.svg" /></code></a>
  <a href="https://www.postgresql.org"><code><img alt="postgresql" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
+ <a href="https://clickhouse.com/docs/ru/"><code><img alt="clickhouse" height="40px" src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" /></code></a>
  <a href="https://firebase.google.com"><code><img alt="firebase" height="40px" src="https://cdn.svgporn.com/logos/firebase.svg" /></code></a>
  <a href="https://d3js.org"><code><img alt="D3" height="40px" src="https://cdn.svgporn.com/logos/d3.svg" /></code></a>
  <a href="https://www.chartjs.org"><code><img alt="chartjs" height="40px" src="https://www.chartjs.org/img/chartjs-logo.svg" /></code></a>
