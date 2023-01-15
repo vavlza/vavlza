@@ -1,6 +1,6 @@
 ### Hello :sunglasses:
 
-<img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=va-vl&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true" />
+<img align="right" alt="Github stats" src="https://github-readme-stats-ruby-one.vercel.app/api?username=va-vl&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true" />
 
 My name's **Vasili** and I am a full-stack Software Engineer 👷‍♂️
 
