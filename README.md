@@ -4,7 +4,7 @@
 
 My name's **Vasili** and I am a full-stack Software Engineer 👷‍♂️
 
-![](https://www.codewars.com/users/va-vl/badges/small)
+<a href="https://www.codewars.com/users/va-vl"><img alt="Codewars" src="https://www.codewars.com/users/va-vl/badges/small" /></a>
 
 #### :white_check_mark: Have experience with:
 
