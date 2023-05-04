@@ -1,6 +1,6 @@
 ### Hello
 
-<img align="right" alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=va-vl&theme=tokyonight" />
+<img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noch4nce&layout=compact&langs_count=8&theme=react" />
 
 My name's **Vasili** and I am a full-stack Software Engineer 👷‍♂️
 
