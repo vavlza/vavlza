@@ -1,10 +1,10 @@
 ### Hello
 
-<img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noch4nce&layout=compact&langs_count=8&theme=react" />
+<img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavlza&layout=compact&langs_count=8&theme=react" />
 
 My name's **Vasili** and I am a full-stack Software Engineer 👷‍♂️
 
-<a href="https://www.codewars.com/users/va-vl"><img alt="Codewars" src="https://www.codewars.com/users/va-vl/badges/small" /></a>
+<a href="https://www.codewars.com/users/vavlza"><img alt="Codewars" src="https://www.codewars.com/users/vavlza/badges/small" /></a>
 
 #### :white_check_mark: Have experience with:
 
